@@ -7,9 +7,9 @@ The repo consists of the
 the dataset is taken from kaggle: https://www.kaggle.com/datasets/prajwalbhamere/car-damage-severity-dataset/data
 
 To make this repo work in your local : 
-Download the dataset 
-Run the Jupyter Notebook 
-Save the model artefacts in your folder
+Download the dataset ,
+Run the Jupyter Notebook ,
+Save the model artefacts in your folder,
 Initiate the Streamlit Application
 
 This was built using Python 3.8 Version.
